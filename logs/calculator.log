@@ -1,0 +1,11 @@
+2025-10-21 12:52:58 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T12:52:58.618174
+2025-10-21 12:53:05 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T12:53:05.239790
+2025-10-21 12:54:14 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T12:54:14.120354
+2025-10-21 12:56:15 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T12:56:15.206402
+2025-10-21 12:57:27 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T12:57:27.854987
+2025-10-21 12:57:27 | INFO | calculator | op=multiply a=2.0 b=4.0 result=8.0 ts=2025-10-21T12:57:27.859038
+2025-10-21 13:00:19 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T13:00:19.242353
+2025-10-21 13:00:19 | INFO | calculator | op=multiply a=2.0 b=4.0 result=8.0 ts=2025-10-21T13:00:19.247753
+2025-10-21 13:00:19 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T13:00:19.268695
+2025-10-21 13:01:04 | INFO | calculator | op=add a=2.0 b=3.0 result=5.0 ts=2025-10-21T13:01:04.398231
+2025-10-21 13:01:08 | INFO | calculator | op=power a=2.0 b=8.0 result=256.0 ts=2025-10-21T13:01:08.917344
